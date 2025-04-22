@@ -1,0 +1,12 @@
+The quick brown fox jumps over the lazy dog.
+This is another line with some more words in it, indeed.
+Let's test hyphen-ated words like data-processing and well-being.
+And what about apostrophe's? They should be counted too, shouldn't they?
+Here are some numbers 123 and also 45-67, maybe even 890.
+This line has some repeated words: the the and some some, yes it does.
+How about a line with ALL CAPS? IS THIS REALLY OKAY THEN?
+Finally, one last line for good measure, or perhaps not.
+This is a ninth line, just to be sure we have enough.
+And here's a tenth line, adding even more words for the counter.
+Eleventh line checking in with a few extra words here and there.
+The twelfth and final line for this extended test file.
